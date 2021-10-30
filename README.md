@@ -3,4 +3,5 @@
 A new re-design of the Birmingham Impact Football Club website using new technologies to accommodate towards the user a comfortable and modern site for easy access. 
 
 ### Status
-     // Project is to be created soon and is in design process
+     // Site wireframe have been finished and published on instagram and behance  
+     // Now building has begun and currently on register page
