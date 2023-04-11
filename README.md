@@ -6,3 +6,4 @@ A new re-design of the Birmingham Impact Football Club website using new technol
      // Site wireframe have been finished and published on instagram and behance  
      // Now building has begun and currently on register page
      // Currently building the form for both the register and contact pages 
+     // Now starting to build the 404 page 
