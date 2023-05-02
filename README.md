@@ -7,3 +7,5 @@ A new re-design of the Birmingham Impact Football Club website using new technol
      // Now building has begun and currently on register page
      // Currently building the form for both the register and contact pages 
      // Now starting to build the 404 page 
+     // 404 page has been built
+     // Starting to build the fixtures/results page 
