@@ -9,3 +9,5 @@ A new re-design of the Birmingham Impact Football Club website using new technol
      // Now starting to build the 404 page 
      // 404 page has been built
      // Starting to build the fixtures/results page 
+     // Fixture/results page has been built
+     // Looking tol implement third party email system 
