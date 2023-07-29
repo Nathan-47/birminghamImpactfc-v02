@@ -13,3 +13,5 @@ A new re-design of the Birmingham Impact Football Club website using new technol
      // Email.js has been added and tests have worked 
      // Tackling form alerts now
      // Also just added tooltips for register form 
+     // Tooltips have been added
+     // Amending homepage logo's now fixing team name on navbar
