@@ -15,3 +15,4 @@ A new re-design of the Birmingham Impact Football Club website using new technol
      // Also just added tooltips for register form 
      // Tooltips have been added
      // Amending homepage logo's now fixing team name on navbar
+     // Phase 1 complete, proof reading for any amends needed
